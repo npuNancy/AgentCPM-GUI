@@ -1,4 +1,6 @@
 .DS_Store
+model/*
+result/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
