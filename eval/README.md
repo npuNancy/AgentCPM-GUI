@@ -34,9 +34,10 @@
 
 > \*Different train/test splits
 
-## Data Preparation
+## Data Preparation | 数据准备
 
 Follow [eval_data/readme.md](eval_data/readme.md) to setup eval datasets.
+按照 [eval_data/readme.md](eval_data/readme.md) 设置 eval 数据集。
 
 ---
 
